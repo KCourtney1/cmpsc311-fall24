@@ -1,0 +1,17 @@
+# Compiled C files
+*.o
+*.exe
+*.out
+
+# Binaries / generated files
+tester
+jbod_server
+jbod_server_binary
+x
+*.so
+*.so.*
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
